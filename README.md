@@ -63,3 +63,22 @@ Dockerfile – основа образу. Розберемось, з чого в
 4. Docker Swarm
 
 ## Урок 5: Інструменти для Docker
+
+### Повний (розгорнутий) опис уроку:
+
+Розглянемо способи аналізу Dockerfile та Docker образів за допомогою docker scan, hadolint та checkov. Познайомимось з інструментами для управління контейнерами з UI та оцінимо їхні можливості.
+
+### Короткий опис уроку (план):
+
+1. Аналіз Docker образу
+2. ctop
+3. dockly
+4. dive
+5. Lazydocker
+6. hadolint
+7. checkov
+
+---
+
+**CyberBionic Systematics**  
+**Вебсайт:** [www.edu.cbsystematics.com](http://www.edu.cbsystematics.com)
